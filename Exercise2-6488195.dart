@@ -42,12 +42,12 @@ class MyHomePage extends StatelessWidget {
                 name: "converse",
                 description: "converse",
                 price: 2000,
-                image: "converse.png"),
+                Image.network(("newhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.converse.co.th%2Fchuck-70-plus-canvas-1.html&psig=AOvVaw1QIpqW87CUbQjg8J6Ano6g&ust=1707053977804000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjykuGlj4QDFQAAAAAdAAAAABAE")),
             ProductBox(
                 name: "new balance",
                 description: "new balance",
                 price: 1500,
-                image: "newbalance.png"),
+                Image.network(("https://www.google.com/url?sa=i&url=https%3A%2F%2Fsasom.co.th%2Fshoes%2FBB550WT1%2Fnew-balance-550-white-green&psig=AOvVaw1ltl36GZqMjdtA-DkKQz8w&ust=1707053958181000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDAvtelj4QDFQAAAAAdAAAAABAE")),
 
           ],
         ));
